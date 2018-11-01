@@ -1,0 +1,10 @@
+body{
+    background-image: url("images/background2.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.outer-portfolio{
+    padding-bottom: 15%;
+    padding-top:2%;
+    padding-right:2%;
+}
